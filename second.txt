@@ -1,2 +1,3 @@
 2
 Tutaj zaczyna sie modyfikacja pliku. 
+Druga zmiana w pliku nr dwa. 
